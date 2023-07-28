@@ -1,0 +1,46 @@
+body{
+  background:black;
+  text-align:center;
+    color:pink;
+  background-image: url("https://media.tenor.com/ooq-ikIMfksAAAAM/cooking-will-smith.gif"),url("https://thumbs.gfycat.com/GrippingPastIndianglassfish-max-1mb.gif"),url("https://media.tenor.com/CxoHjp2wGfUAAAAC/harden-basketball.gif");
+  
+    background-repeat: no-repeat;
+    
+   background-position: left top, right top,center;
+  background-size: 30%
+}
+
+h1 span{
+   background: rgba(0,0,0,0.5);
+   border-radius: 40px;
+  padding: 10px;
+  font-size: 90px;
+  
+}
+h2 span{
+  background: rgba(0,0,0,0.5 );
+   border-radius: 40px;
+  padding: 10px;
+  font-size: 90px;
+  
+}
+
+
+
+
+p span {
+   background: rgba(0,0,0,0.5);
+  border-radius: 40px;
+  padding: 10px;
+  font-size: 70px;
+}
+
+#if2{
+  
+  width:900px;
+  height:700px;
+}
+
+iframe{
+  float: right;
+}
